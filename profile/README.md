@@ -16,3 +16,10 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 ![architecture graph](./profile/iosl_pupd_architecture.png)
 
 ## Setup instructions
+1. Create **Wallets**
+2. Deploy **Smart Contracts**
+3. Setup the **Scone App**
+4. Setup the **Gramine App**
+5. Setup the **Database** for the Node Server
+6. Setup **Node Server** with .env and wallet.json file
+9. Setup **React App** with .env file
