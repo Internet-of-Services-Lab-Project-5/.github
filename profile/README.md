@@ -7,10 +7,10 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 ## Repositories
 - [server (Node Server)](https://github.com/Internet-of-Services-Lab-Project-5/server "server")
 - [client (React App)](https://github.com/Internet-of-Services-Lab-Project-5/client "client")
-- [gramine-app (Gramine App)](https://www.google.com](https://github.com/Internet-of-Services-Lab-Project-5/gramine-app) "gramine-app")
-- [scone-app (Scone App)](https://www.google.com](https://github.com/Internet-of-Services-Lab-Project-5/scone-app) "scone-app")
-- [smart-contracts (Smart Contract)](https://www.google.com](https://github.com/Internet-of-Services-Lab-Project-5/smart-contracts) "smart-contracts")
-- [templates](https://www.google.com](https://github.com/Internet-of-Services-Lab-Project-5/templates) "templates")
+- [gramine-app (Gramine App)](https://github.com/Internet-of-Services-Lab-Project-5/gramine-app "gramine-app")
+- [scone-app (Scone App)](https://github.com/Internet-of-Services-Lab-Project-5/scone-app "scone-app")
+- [smart-contracts (Smart Contract)](https://github.com/Internet-of-Services-Lab-Project-5/smart-contracts "smart-contracts")
+- [templates](https://github.com/Internet-of-Services-Lab-Project-5/templates "templates")
 
 ## Architecture
 ![architecture graph](./profile/iosl_pupd_architecture.png)
