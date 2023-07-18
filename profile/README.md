@@ -23,3 +23,8 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 5. Setup the **Database** for the Node Server
 6. Setup **Node Server** with .env and wallet.json file
 9. Setup **React App** with .env file
+
+
+## Old Repository
+To facilitate easy deployment on Render, we have migrated our repository to GitHub. Here is the old repository on the GitLab server of TU Berlin:
+https://git.tu-berlin.de/liaafk/iosl-pupd
