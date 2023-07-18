@@ -7,5 +7,6 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 ## Repositories
 
 ## Architecture
+![architecture graph](./iosl_pupd_architecture.png)
 
 ## Setup instructions
