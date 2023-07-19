@@ -18,13 +18,13 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 ## Setup instructions
 1. Create **Wallets**
 2. Deploy **Smart Contracts**
-3. Setup the **Scone App**
-4. Setup the **Gramine App**
+3. Deploy the **Scone App**
+4. Deploy the **Gramine App** and push app secrets to the SMS
 5. Setup the **Database** for the Node Server
-6. Setup **Node Server** with .env and wallet.json file
-9. Setup **React App** with .env file
+6. Setup **Node Server** with `.env` and `wallet.json` file
+9. Setup **React App** with `.env` file
 
 
 ## Old Repository
-To facilitate easy deployment on Render, we have migrated our repository to GitHub. Here is the old repository on the GitLab server of TU Berlin:
+To facilitate easy deployment on [Render](https://render.com/), we have migrated our repository to GitHub. Here is the old repository on the GitLab server of TU Berlin:
 https://git.tu-berlin.de/liaafk/iosl-pupd
