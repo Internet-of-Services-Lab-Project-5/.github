@@ -25,6 +25,13 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 6. Setup **Node Server** with `.env` and `wallet.json` file
 9. Setup **React App** with `.env` file
 
+## Videos
+
+- [Passenger check](https://tubcloud.tu-berlin.de/s/wPgDKm4gd6AQdRA)
+- [Updating data in your database and on iExec](https://tubcloud.tu-berlin.de/s/6zrEc3AFX3EqDqW)
+- [Proposing an airline and voting](https://tubcloud.tu-berlin.de/s/RiAa2y7855kfeLY)
+- [Old version](https://tubcloud.tu-berlin.de/s/j7sEdt4pqY2LZ3n)
+
 
 ## Old Repository
 To facilitate easy deployment on [Render](https://render.com/), we have migrated our repository to GitHub. Here is the old repository on the GitLab server of TU Berlin:
