@@ -33,7 +33,7 @@ Videos:
 - [Passenger check](https://tubcloud.tu-berlin.de/s/wPgDKm4gd6AQdRA)
 - [Updating data in your database and on iExec](https://tubcloud.tu-berlin.de/s/6zrEc3AFX3EqDqW)
 - [Proposing an airline and voting](https://tubcloud.tu-berlin.de/s/RiAa2y7855kfeLY)
-- [Old version](https://tubcloud.tu-berlin.de/s/j7sEdt4pqY2LZ3n)
+- [MVP version](https://tubcloud.tu-berlin.de/s/j7sEdt4pqY2LZ3n)
 
 
 ## Old Repository
