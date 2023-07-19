@@ -11,7 +11,7 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 - [scone-app (Scone App)](https://github.com/Internet-of-Services-Lab-Project-5/scone-app "scone-app")
 - [smart-contracts (Smart Contract)](https://github.com/Internet-of-Services-Lab-Project-5/smart-contracts "smart-contracts")
 - [templates](https://github.com/Internet-of-Services-Lab-Project-5/templates "templates")
-- [deploymentFiles](https://github.com/Internet-of-Services-Lab-Project-5/deploymentFiles "deploymentFiles")
+- [*deploymentFiles (optional cloud deployment)*](https://github.com/Internet-of-Services-Lab-Project-5/deploymentFiles "deploymentFiles")
 
 ## Architecture
 ![architecture graph](./profile/iosl_pupd_architecture.png)
