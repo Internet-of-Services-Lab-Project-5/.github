@@ -25,8 +25,11 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 6. Setup **Node Server** with `.env` and `wallet.json` file
 9. Setup **React App** with `.env` file
 
-## Videos
+## Material
 
+[Slides of final presentation](https://tubcloud.tu-berlin.de/s/JkFtayCwijAZ3Jo)
+
+Videos:
 - [Passenger check](https://tubcloud.tu-berlin.de/s/wPgDKm4gd6AQdRA)
 - [Updating data in your database and on iExec](https://tubcloud.tu-berlin.de/s/6zrEc3AFX3EqDqW)
 - [Proposing an airline and voting](https://tubcloud.tu-berlin.de/s/RiAa2y7855kfeLY)
