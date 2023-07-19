@@ -17,7 +17,7 @@ Sharing unruly passenger lists with other airlines entails privacy concerns and 
 
 ## Setup instructions
 1. Create **Wallets**
-2. Deploy **Smart Contracts**
+2. Deploy **Smart Contract**
 3. Deploy the **Scone App**
 4. Deploy the **Gramine App** and push app secrets to the SMS
 5. Setup the **Database** for the Node Server
